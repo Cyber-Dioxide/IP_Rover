@@ -22,5 +22,5 @@ In this example i've used random ip, thats why some contents are shown None, I'v
 ![Screenshot (178)](https://user-images.githubusercontent.com/93708296/147857217-04adad22-21be-45a5-a62d-8de99b29d32c.png)
 ![Screenshot (179)](https://user-images.githubusercontent.com/93708296/147857218-d887b378-0194-45d1-9bb1-e465c1a8875c.png)
 
-$ Support
+# Support
 For any kin of help / support , iam mostly active on instagram @saadkhan041 , @coding_memz
