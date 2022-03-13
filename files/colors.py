@@ -5,7 +5,6 @@ all_col= [Style.BRIGHT+Fore.RED,Style.BRIGHT+Fore.CYAN,Style.BRIGHT+Fore.LIGHTCY
 
 ran = random.choice(all_col)
 
-
 lg = Style.BRIGHT+Fore.LIGHTGREEN_EX
 g = Style.BRIGHT+Fore.GREEN
 lc = Style.BRIGHT+Fore.LIGHTCYAN_EX
@@ -14,4 +13,4 @@ ly =  Style.BRIGHT+Fore.LIGHTYELLOW_EX
 y = Style.BRIGHT+Fore.YELLOW
 r = Style.BRIGHT+Fore.RED
 lr = Style.BRIGHT+Fore.LIGHTRED_EX
-w = Fore.LIGHTWHITE_EX
+w = Style.BRIGHT+Fore.LIGHTWHITE_EX
