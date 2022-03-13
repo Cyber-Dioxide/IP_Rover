@@ -18,7 +18,10 @@ Enjoy!!!
 # Screenshot
 
 In this example i've used random ip, thats why some contents are shown None, I've personally tested on my ip and i've got all the information
-![Screenshot (180)](https://user-images.githubusercontent.com/93708296/147857220-5bd001e8-220d-4cf7-ae0b-b72568692f89.png)
+
+![Screenshot (234)](https://user-images.githubusercontent.com/93708296/158072012-9c76e49a-8144-479c-82e7-ee3db4cd92cb.png)
+
+
 ![Screenshot (178)](https://user-images.githubusercontent.com/93708296/147857217-04adad22-21be-45a5-a62d-8de99b29d32c.png)
 ![Screenshot (179)](https://user-images.githubusercontent.com/93708296/147857218-d887b378-0194-45d1-9bb1-e465c1a8875c.png)
 
