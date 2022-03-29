@@ -1,5 +1,5 @@
 import ipapi
-from files.banner import banner , banner2 , clear
+from setup.banner import banner , banner2 , clear
 from files import colors
 
 
