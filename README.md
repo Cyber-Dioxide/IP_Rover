@@ -22,7 +22,9 @@ In this example i've used random ip, thats why some contents are shown None, I'v
 
 ![Screenshot (265)](https://user-images.githubusercontent.com/93708296/160673593-c8499850-71f4-4035-b97a-fdd8effebb93.png)
 ![Screenshot (266)](https://user-images.githubusercontent.com/93708296/160673599-c63c1649-8aa9-485b-81b5-71af336f5159.png)
-![Screenshot (262)](https://user-images.githubusercontent.com/93708296/160673603-c06bf41b-6954-488e-9d70-65dd5fb2859b.png)
+
+# Donate
+* Paypal: @maazwaheed123
 
 # Support
-For any kin of help / support , iam mostly active on instagram @cyber_dioxide , @cyber_dioxide_
+For any kind of help / support , iam mostly active on instagram @cyber_dioxide , @coding_memz
