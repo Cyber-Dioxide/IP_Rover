@@ -5,9 +5,14 @@ An Excellent OSINT tool to get information of any ip address. All details are ex
 * For paid hacking service dm me on instagram @coding_memz
 * Get 14M passwordlist containing mostly used passwords dm me on instagram @coding_memz
 
+# Telegram
+* Join Telegram Channel: https://t.me/cyber_diox
+* Telegram Contact: @coding_memz
+
+  
 # Important!
 
-All usage procedures dhould be performed to not to get any error
+All usage procedures should be performed to not to get any error
 
 # Usage
 1. apt install python3
@@ -31,4 +36,4 @@ In this example i've used random ip, thats why some contents are shown None, I'v
 * Paypal: @maazwaheed123
 
 # Support
-For any kind of help / support , iam mostly active on instagram @cyber_dioxide , @coding_memz
+For any kind of help / support , iam mostly active on instagram and telegram @coding_memz
