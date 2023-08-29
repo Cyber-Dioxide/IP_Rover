@@ -6,7 +6,7 @@ An Excellent OSINT tool to get information of any ip address. All details are ex
 * Get 14M passwordlist containing mostly used passwords dm me on instagram @coding_memz
 
 # Telegram
-* Join Telegram Channel: https://t.me/cyber_diox
+
 * Telegram Contact: @coding_memz
 
   
