@@ -5,6 +5,8 @@ An Excellent OSINT tool to get information of any ip address. All details are ex
 * For paid hacking service dm me on instagram @coding_memz
 * Get 14M passwordlist containing mostly used passwords dm me on instagram @coding_memz
 
+# Tutorial
+Read Blog ![Here](https://www.cyberdioxide.com/2023/11/ip-location-track-latitude-longitude-of.html)
 # Telegram
 
 * Telegram Contact: @coding_memz
