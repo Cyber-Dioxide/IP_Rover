@@ -30,9 +30,8 @@ Enjoy!!!
 
 In this example i've used random ip, thats why some contents are shown None, I've personally tested on my ip and i've got all the information
 
-
-![Screenshot (265)](https://user-images.githubusercontent.com/93708296/160673593-c8499850-71f4-4035-b97a-fdd8effebb93.png)
-![Screenshot (266)](https://user-images.githubusercontent.com/93708296/160673599-c63c1649-8aa9-485b-81b5-71af336f5159.png)
+![Screenshot 2024-05-27 115623](https://github.com/Cyber-Dioxide/IP_Rover/assets/93708296/62910e35-2486-4a44-8cb6-c820e368d1be)
+![Screenshot 2024-05-27 115746](https://github.com/Cyber-Dioxide/IP_Rover/assets/93708296/1bcc22d3-8712-41e5-b4cb-0801f821c5df)
 
 # Donate
 * Paypal: @maazwaheed123
