@@ -1,7 +1,7 @@
 import os
 import platform
-from setup import colors
-from setup.colors import r,g,y,c , w
+from scripts import colors
+from scripts.colors import r,g,y,c , w
 from colorama import Fore , Back
 
 GB = Back.GREEN
@@ -11,14 +11,14 @@ WB = Back.RED
 
 
 logo = f"""
- ▄█     ▄███████▄                                            
-███    ███    ███                                            
-███▌   ███    ███                                            
-███▌   ███    ███                                            
-███▌ ▀█████████▀                                             
-███    ███                                                   
-███    ███                                                   
-█▀    ▄████▀                                                 
+                     ▄█     ▄███████▄                                            
+                    ███    ███    ███                                            
+                    ███▌   ███    ███                                            
+                    ███▌   ███    ███                                            
+                    ███▌ ▀█████████▀                                             
+                    ███    ███                                                   
+                    ███    ███                                                   
+                    █▀    ▄████▀                                                 
                                                              
    ▄████████  ▄██████▄   ▄█    █▄     ▄████████    ▄████████ 
   ███    ███ ███    ███ ███    ███   ███    ███   ███    ███ 
@@ -29,11 +29,9 @@ logo = f"""
   ███    ███ ███    ███ ███    ███   ███    ███   ███    ███ 
   ███    ███  ▀██████▀   ▀██████▀    ██████████   ███    ███ 
   ███    ███                                      ███    ███ 
-            {y}<{w}/{y}> {c}Author: {w}Saad Khan {r}|{g} Cyber-Dioxide    
-
-{w}<{y}/{w}> {GB}{w}Instagram : @cyber_dioxide {Back.RESET}
-{w}<{y}/{w}> {YB}{w}Coding Instagram : @cyber_dioxide_ {Back.RESET}
-{w}<{y}/{w}> {WB}{w}Github: Cyber-Dioxide  {Back.RESET}                                                                                                     
+  
+            {y}<{w}/{y}> {c}Author: {w}Cyber-Dioxide    
+    {w}<{y}/{w}> {GB}{w}Telegram : @cyberdioxide {Back.RESET}                                                                                                
 """
 c = colors
 try:
