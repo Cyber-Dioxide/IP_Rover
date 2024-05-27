@@ -34,7 +34,7 @@ In this example i've used random ip, thats why some contents are shown None, I'v
 ![Screenshot 2024-05-27 115746](https://github.com/Cyber-Dioxide/IP_Rover/assets/93708296/1bcc22d3-8712-41e5-b4cb-0801f821c5df)
 
 # Donate
-* Paypal: @maazwaheed123
+* LTC: LdweKtvUZhFhsDQcrkYoXXPN8nRNXt34Q9
 
 # Support
 For any kind of help / support , iam mostly active on instagram and telegram @coding_memz
