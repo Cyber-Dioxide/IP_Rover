@@ -1,13 +1,16 @@
 import ipapi
-from setup.banner import banner , banner2 , clear
+from scripts.banner import banner , banner2 , clear, logo
 from files import colors
+from rgbprint import Color, gradient_print
 
+C1 = Color.magenta
+C2 = Color.hot_pink
 
 c = colors
 
 clear()
 
-banner()
+gradient_print(logo, start_color=C1, end_color=C2)
 
 
 def program():
